@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://i.imgur.com/3EIn0JB.gif' title='SimpleTodo App Walkthrough' width='' alt='SimpleTodo App Walkthrough' />
+<img src='https://raw.githubusercontent.com/Jimmy-2/SimpleTodo/master/SimpleTodo.gif' title='SimpleTodo App Walkthrough' width='' alt='SimpleTodo App Walkthrough' />
 
 MP4 created with [OBS](https://obsproject.com/).
 MP4 converted to Gif with [Imgur](https://imgur.com/).
