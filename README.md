@@ -35,7 +35,8 @@ MP4 converted to Gif with [Imgur](https://imgur.com/).
 
 Describe any challenges encountered while building the app.  
 Default FileUtil import package did not work. So I had to use: import org.apache.commons.io.FileUtils; in the MainActivity.java file instead.   
-This also resulted in a change to the implementation in build.gradle(:app). I had to use: implementation group: 'commons-io', name: 'commons-io', version: '2.6'  
+This also resulted in a change to the implementation in build.gradle(:app).  
+I had to use: implementation group: 'commons-io', name: 'commons-io', version: '2.6'  
 
 ## License
 
