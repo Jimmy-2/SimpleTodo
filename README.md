@@ -26,9 +26,10 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/3EIn0JB.gif' title='SimpleTodo App Walkthrough' width='' alt='SimpleTodo App Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+MP4 created with [OBS](https://obsproject.com/).
+MP4 converted to Gif with [Imgur](https://imgur.com/).
 
 ## Notes
 
